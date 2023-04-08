@@ -1,6 +1,6 @@
 <footer>
   <div
-    class="container-fluid bg-dark text-light footer pt-5 mt-5 "
+    class="container-fluid bg-dark text-light footer pt-5 mt-5"
     data-wow-delay="0.1s"
   >
     <div class="container py-5">
@@ -53,9 +53,9 @@
             Opening
           </h4>
           <h5 class="text-light fw-normal">Monday - Saturday</h5>
-          <p>09AM - 09PM</p>
+          <p>9:00 AM - 9:00 PM</p>
           <h5 class="text-light fw-normal">Sunday</h5>
-          <p>10AM - 08PM</p>
+          <p>10:00 AM - 8:00 PM</p>
         </div>
         <div class="col-lg-3 col-md-6">
           <h4

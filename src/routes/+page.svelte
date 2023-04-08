@@ -8,7 +8,7 @@
 <div class="container-xxl bg-white p-0">
   <!-- Navbar & Hero Start -->
   <!-- <div class="container-xxl position-relative p-0"> -->
-  <div class="container-xxl py-5 bg-dark  mb-5">
+  <div class="container-xxl py-5 bg-dark mb-5">
     <!-- <div class="container my-5 py-5"> -->
     <div class="row align-items-center g-5 px-5">
       <div class="col-lg-6 text-center text-lg-start">
@@ -23,10 +23,10 @@
           place to relax, sip on coffee, and cuddle with our friendly cats. Come
           visit us at Mori, where coffee and cats go paw-in-paw.
         </p>
-        <a href="booking" class="btn btn-primary py-sm-3 px-sm-5 my-1 "
+        <a href="booking" class="btn btn-primary py-sm-3 px-sm-5 my-1"
           >Book A Table</a
         >
-        <span class=" me-3 ms-3 ">or</span>
+        <span class=" me-3 ms-3 text-white">or</span>
         <a href="booking" class="btn btn-primary py-sm-3 px-sm-5 my-1"
           >Pick up my cat</a
         >
@@ -44,7 +44,7 @@
   <div class="container-xxl py-5">
     <div class="container">
       <div class="row g-3">
-        <div class="col-lg-3 col-sm-6 " data-wow-delay="0.3s">
+        <div class="col-lg-3 col-sm-6" data-wow-delay="0.3s">
           <a href="service#relax-cafe">
             <div class="service-item rounded pt-3">
               <div class="p-4">
@@ -75,7 +75,7 @@
           </a>
         </div>
 
-        <div class="col-lg-3 col-sm-6 " data-wow-delay="0.5s">
+        <div class="col-lg-3 col-sm-6" data-wow-delay="0.5s">
           <a href="service#cat-sit">
             <div class="service-item rounded pt-3">
               <div class="p-4">
@@ -89,7 +89,7 @@
             </div>
           </a>
         </div>
-        <div class="col-lg-3 col-sm-6  " data-wow-delay="0.7s">
+        <div class="col-lg-3 col-sm-6" data-wow-delay="0.7s">
           <a href="service#cat-groom">
             <div class="service-item rounded pt-3">
               <div class="p-4">
@@ -201,7 +201,7 @@
   <!-- Menu Start -->
   <div class="container-xxl py-5">
     <div class="container">
-      <div class="text-center " data-wow-delay="0.1s">
+      <div class="text-center" data-wow-delay="0.1s">
         <h5
           class="section-title ff-secondary text-center text-primary fw-normal"
         >
@@ -209,7 +209,7 @@
         </h5>
         <!-- <h1 class="mb-5">Most Popular Items</h1> -->
       </div>
-      <div class="tab-class text-center " data-wow-delay="0.1s">
+      <div class="tab-class text-center" data-wow-delay="0.1s">
         <ul
           class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5"
         >
@@ -232,7 +232,7 @@
               data-bs-toggle="pill"
               href="#tab-2"
             >
-              <i class="fa fa-thumbs-up fa-2x text-primary" />
+              <i class="fa fa-birthday-cake fa-2x text-primary" />
               <div class="ps-3">
                 <small class="text-body">Popular</small>
                 <h6 class="mt-n1 mb-0">Cake and Bread</h6>
@@ -407,7 +407,7 @@
                       class="d-flex justify-content-between border-bottom pb-2"
                     >
                       <span>Herbal Tea</span>
-                      <span class="text-primary">฿200</span>
+                      <span class="text-primary">฿130</span>
                     </h5>
                     <small class="fst-italic"
                       >Made from a variety of herbs and spices, herbal teas have
@@ -591,7 +591,7 @@
   <!-- Menu End -->
 
   <!-- Reservation Start -->
-  <div class="container-xxl py-5 px-0 " data-wow-delay="0.1s">
+  <div class="container-xxl py-5 px-0" data-wow-delay="0.1s">
     <div class="row g-0">
       <div class="col-md-6">
         <div class="video">
@@ -607,7 +607,7 @@
         </div>
       </div>
       <div class="col-md-6 bg-dark d-flex align-items-center">
-        <div class="p-5 " data-wow-delay="0.2s">
+        <div class="p-5" data-wow-delay="0.2s">
           <h5
             class="section-title ff-secondary text-start text-primary fw-normal"
           >
@@ -726,7 +726,7 @@
   <!-- Team Start -->
   <div class="container-xxl pt-5 pb-3">
     <div class="container">
-      <div class="text-center " data-wow-delay="0.1s">
+      <div class="text-center" data-wow-delay="0.1s">
         <h5
           class="section-title ff-secondary text-center text-primary fw-normal"
         >
@@ -735,7 +735,7 @@
         <h1 class="mb-5">Our Cats</h1>
       </div>
       <div class="row g-4">
-        <div class="col-lg-3 col-md-6 " data-wow-delay="0.1s">
+        <div class="col-lg-3 col-md-6" data-wow-delay="0.1s">
           <div class="team-item text-center rounded overflow-hidden">
             <div class="rounded-circle overflow-hidden m-4">
               <img class="img-fluid" src="img/team-1.jpg" alt="" />
@@ -750,7 +750,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 " data-wow-delay="0.3s">
+        <div class="col-lg-3 col-md-6" data-wow-delay="0.3s">
           <div class="team-item text-center rounded overflow-hidden">
             <div class="rounded-circle overflow-hidden m-4">
               <img class="img-fluid" src="img/team-2.jpg" alt="" />
@@ -765,7 +765,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 " data-wow-delay="0.5s">
+        <div class="col-lg-3 col-md-6" data-wow-delay="0.5s">
           <div class="team-item text-center rounded overflow-hidden">
             <div class="rounded-circle overflow-hidden m-4">
               <img class="img-fluid" src="img/team-3.jpeg" alt="" />
@@ -780,7 +780,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 " data-wow-delay="0.7s">
+        <div class="col-lg-3 col-md-6" data-wow-delay="0.7s">
           <div class="team-item text-center rounded overflow-hidden">
             <div class="rounded-circle overflow-hidden m-4">
               <img class="img-fluid" src="img/team-4.jpg" alt="" />
@@ -801,7 +801,7 @@
   <!-- Team End -->
 
   <!-- Testimonial Start -->
-  <div class="container-xxl py-5 " data-wow-delay="0.1s">
+  <div class="container-xxl py-5" data-wow-delay="0.1s">
     <div class="container">
       <div class="text-center">
         <h5

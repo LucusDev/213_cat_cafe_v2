@@ -2,9 +2,12 @@
 :root {
   --primary: #fea116;
   --light: #f1f8ff;
-  --dark: #0f172b;
+  /* --dark: #0f172b; */
+  --dark: #623c27;
 }
-
+.bg-dark {
+  background-color: #623c27 !important;
+}
 .ff-secondary {
   font-family: "Pacifico", cursive;
 }
